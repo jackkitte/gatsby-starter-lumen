@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'jackkitteのブログ',
-  subtitle: '東京でエンジニアやってます。',
+  subtitle: 'アニメLOVEで上京した田舎モンで、東京でエンジニアやってます。Python使いで機械学習チョットデキル。AWSでサーバーレス開発をやったり、CI/CDを構築したり、IaCを積極的に活用したりWeb系開発の大抵のことは何でもやってます！',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'jackkitte',
     photo: '/ponkue_kaku.jpeg',
-    bio: '東京でエンジニアやってます。',
+    bio: 'アニメLOVEで上京した田舎モンで、東京でエンジニアやってます。Python使いで機械学習チョットデキル。AWSでサーバーレス開発をやったり、CI/CDを構築したり、IaCを積極的に活用したりWeb系開発の大抵のことは何でもやってます！',
     contacts: {
       email: 'jackkitte735@gmail.com',
       facebook: '',
