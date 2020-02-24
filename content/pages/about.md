@@ -16,6 +16,9 @@ socialImage: "/media/image-2.jpg"
 - GoとNuxtで作るYoutube Data APIを使ったWebアプリ
     - https://youtube-manager-nuxt.herokuapp.com/
     - 参考書籍：https://nextpublishing.jp/book/11180.html
+- Goの標準ライブラリだけでアップロード画像からモザイク写真を生成するWebアプリ
+    - https://mosaic-image-generator.herokuapp.com/
+    - 参考書籍：https://www.marlin-arms.com/support/goweb/
 
 ### ITスキルセット
 - **プログラミング**
