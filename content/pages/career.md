@@ -1,9 +1,9 @@
 ---
 title: "Career"
 template: "page"
-socialImage: "/media/image-4.jpg"
+socialImage: "/media/image-1.jpg"
 ---
-![image-4.jpg](/media/image-4.jpg)
+![image-1.jpg](/media/image-1.jpg)
 
 ### 来歴
 - 1社目：人工知能系の会社
