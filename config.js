@@ -22,6 +22,10 @@ module.exports = {
     {
       label: 'Career',
       path: '/pages/career'
+    },
+    {
+      label: '好きなアニメ',
+      path: '/pages/anime'
     }
   ],
   author: {
