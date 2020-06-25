@@ -9,24 +9,20 @@ socialImage: "/media/image-2.jpg"
 - 英語は全然喋れません
 - 最終学歴：琉球大学大学院　理工学研究科　情報工学専攻
     - 大学で情報工学を学び、研究では當間研究室にてニューラルネットワークをやっておりました。ディープラーニングにおけるパラメータ調整を自動で最適な値に設定できないかどうかの検証を行いました。
-- プロフィールページ
-    - https://jackkitte-room.herokuapp.com/
-- これまで読んできた書籍
-    - https://bookmeter.com/users/776128/books/read
-- GoとNuxtで作るYoutube Data APIを使ったWebアプリ
-    - https://youtube-manager-nuxt.herokuapp.com/
+- [プロフィールページ](https://jackkitte-room.herokuapp.com/)
+- [これまで読んできた書籍](https://bookmeter.com/users/776128/books/read)
+- [GoとNuxtで作るYoutube Data APIを使ったWebアプリ](https://youtube-manager-nuxt.herokuapp.com/)
     - 参考書籍：https://nextpublishing.jp/book/11180.html
-- Goの標準ライブラリだけでアップロード画像からモザイク写真を生成するWebアプリ
-    - https://mosaic-image-generator.herokuapp.com/
+- [Goの標準ライブラリだけでアップロード画像からモザイク写真を生成するWebアプリ](https://mosaic-image-generator.herokuapp.com/)
     - 参考書籍：https://www.marlin-arms.com/support/goweb/
 
 ### ITスキルセット
 - **プログラミング**
-    - Python / Javascript / SQL / Bash / Golang
+    - Python / Javascript / SQL / Bash / Golang / TypeScript
 - **アプリケーションフレームワーク**
-    - Django / Vue.js / django-rest-framework / Nuxt.js / Node.js
+    - Django / Vue.js / django-rest-framework / Nuxt.js / Node.js / React.js
 - **AWS**
-    - Lambda / DynamoDB / API Gateway / SQS / Aurora PostreSQL / VPC / S3 / ClooudWatch / Kinesis / Cognito
+    - Lambda / DynamoDB / API Gateway / SQS / Aurora PostreSQL / VPC / S3 / ClooudWatch / Kinesis / Cognito / Aurora Serverless / SecretsManager / EC2
 - **DevOps**
     - macOS / Linux / Git / GitHub / pytest / Docker / AWS SAM / AWS CloudFormation / AWS CodeBuild / AWS CodePipeline / AWS ECR
 - **チーム開発ツール**
