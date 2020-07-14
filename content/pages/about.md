@@ -20,13 +20,12 @@ socialImage: "/media/image-2.jpg"
 - **プログラミング**
     - Python / Javascript / SQL / Bash / Golang / TypeScript
 - **アプリケーションフレームワーク**
-    - Django / Vue.js / django-rest-framework / Nuxt.js / Node.js / React.js
+    - React.js / Vue.js / Django / django-rest-framework / Nuxt.js / Node.js 
 - **AWS**
-    - Lambda / DynamoDB / API Gateway / SQS / Aurora PostreSQL / VPC / S3 / ClooudWatch / Kinesis / Cognito / Aurora Serverless / SecretsManager / EC2
+    - Lambda / DynamoDB / API Gateway / SQS / Aurora Serverless / VPC / S3 / ClooudWatch / Kinesis / Cognito / Aurora PostgreSQL / SecretsManager / EC2 / Amplify / Data API
 - **DevOps**
     - macOS / Linux / Git / GitHub / pytest / Docker / AWS SAM / AWS CloudFormation / AWS CodeBuild / AWS CodePipeline / AWS ECR
 - **チーム開発ツール**
     - slack / VSCode / アジャイル / Jira / Confluence
 - **データ分析**
     - scikit-learn / MeCab / gensim / JupyterNotebook / ElasticStack
-ctus, metus
