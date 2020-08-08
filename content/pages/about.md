@@ -18,9 +18,17 @@ socialImage: "/media/image-2.jpg"
 
 ### ITスキルセット
 - **プログラミング**
-    - Python / Javascript / SQL / Bash / Golang / TypeScript
+    - 業務レベル
+        - Python / SQL / Bash
+    - 個人開発レベル
+        - Javascript
+    - 初心者レベル
+        - Golang / TypeScript / Java / C++ / C
 - **アプリケーションフレームワーク**
-    - React.js / Vue.js / Django / django-rest-framework / Nuxt.js / Node.js 
+    - 個人開発レベル
+        - React.js / Vue.js / React Native
+    - 初心者レベル
+        - Django / django-rest-framework / Nuxt.js / Node.js 
 - **AWS**
     - Lambda / DynamoDB / API Gateway / SQS / Aurora Serverless / VPC / S3 / ClooudWatch / Kinesis / Cognito / Aurora PostgreSQL / SecretsManager / EC2 / Amplify / Data API
 - **DevOps**
