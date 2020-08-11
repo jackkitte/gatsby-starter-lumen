@@ -7,6 +7,7 @@ socialImage: "/media/image-2.jpg"
 
 - 出身：沖縄県
 - 英語は全然喋れません
+- [stackshare](https://stackshare.io/jackkitte/jackkitte#stack)
 - 最終学歴：琉球大学大学院　理工学研究科　情報工学専攻
     - 大学で情報工学を学び、研究では當間研究室にてニューラルネットワークをやっておりました。ディープラーニングにおけるパラメータ調整を自動で最適な値に設定できないかどうかの検証を行いました。
 - [プロフィールページ](https://jackkitte-room.herokuapp.com/)
